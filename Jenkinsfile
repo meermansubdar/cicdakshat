@@ -1,4 +1,4 @@
-anpipeline {
+pipeline {
     agent any
     stages{
         stage('Build Maven'){
